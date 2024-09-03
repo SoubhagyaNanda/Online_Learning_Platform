@@ -31,5 +31,3 @@ The Online Learning Platform is designed and developed by Soubhagya Ranjan Nanda
 To run the platform locally, ensure you have the following installed:
 - Python 3.12.5
 - Django 5.1
-
-git clone https://github.com/yourusername/online-learning-platform.git
